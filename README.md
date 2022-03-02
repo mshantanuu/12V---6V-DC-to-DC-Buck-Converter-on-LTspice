@@ -1,1 +1,0 @@
-# 12V---6V-DC-to-DC-Buck-Converter-on-LTspice
